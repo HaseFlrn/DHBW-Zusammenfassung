@@ -1,0 +1,2 @@
+# DuPont Kennzahlpyramide
+
