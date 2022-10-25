@@ -1,0 +1,2 @@
+# DHBW-Zusammenfassung
+Obsidian-Vault
